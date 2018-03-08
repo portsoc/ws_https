@@ -1,0 +1,26 @@
+{
+  "name": "ws_https",
+  "version": "0.0.1",
+  "description": "A simple example of a Node server with HTTPS.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portsoc/ws_https.git"
+  },
+  "author": "Jacek Kopecky (jacek.kopecky@port.ac.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portsoc/ws_https/issues"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.5.1"
+  },
+  "homepage": "https://github.com/portsoc/ws_https#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
